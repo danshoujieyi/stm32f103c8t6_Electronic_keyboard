@@ -1,0 +1,3 @@
+D:/Proteus/CLion_FreeRTOS_F103C8/cmake-build-debug/CMakeFiles/CLion_FreeRTOS_F103C8.elf.dir
+D:/Proteus/CLion_FreeRTOS_F103C8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proteus/CLion_FreeRTOS_F103C8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
