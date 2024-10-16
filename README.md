@@ -1,0 +1,2 @@
+# stm32f103c8t6_Electronic_keyboard
+这是一个使用stm32c8t6制作的简易电子琴，同时含有超声波报警功能，用于完成我的数电课设
